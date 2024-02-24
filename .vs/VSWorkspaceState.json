@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Backend\\TheFirstApp",
+    "\\Frontend"
   ],
-  "SelectedNode": "\\TheFisrtWebApp.sln",
+  "SelectedNode": "\\Backend",
   "PreviewInSolutionExplorer": false
 }
